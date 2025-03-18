@@ -14,7 +14,7 @@
         "title": "Tea Explorer Website",
         "startDate": "2023",
         "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
-        "images": [
+        "images": [ 
           "images/portfolio/tea-explorer/p1.jpg",
           "images/portfolio/tea-explorer/p2.jpg"
         ],

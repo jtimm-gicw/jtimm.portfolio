@@ -1,6 +1,6 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=div.ap');
 
 html {
 	font-size: 62.5%;
@@ -53,6 +53,7 @@ header .nav {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
+
 
 .github-corner:hover .octo-arm {
 	animation:octocat-wave 560ms ease-in-out
@@ -121,7 +122,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #c2c2c2;
 	overflow: hidden;
 }
 
@@ -354,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #46a3e2;
+	background: #70c2f8;
 	padding-bottom: 5%;
 }
 
