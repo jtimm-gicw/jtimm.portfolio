@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋Your name. I’m currently learning full stack dev. I’m interested in leveraging tech for impactful solutions. 💜",
+      "description_header": "Hello there!",
+      "description": "👋IThe name's Jason and I'm a software developer and education professional.  I love using my tech skills and savy to create dynamic and engaging webpages and web applications.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Tea Explorer Website",
+        "title": "Halloween Countdown",
         "startDate": "2023",
-        "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
-        "images": [ 
-          "images/portfolio/tea-explorer/p1.jpg",
-          "images/portfolio/tea-explorer/p2.jpg"
+        "description": "This was an indiviula project. The Halloween Countdown website is meant to show my skills in HTML and CSS.  It contains several unique pages with a countdown clock at the bottom until the next Halloween.",
+        "images": [
+          "images/portfolio/halloween-scr.st.png"
         ],
-        "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
+        "url": "https://github.com/jtimm-gicw/halloween",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "personal-project",
+        "title": "Salmon Cookie",
         "startDate": "2023",
-        "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
+        "description": "The webpage is Javascript heavy.  Salmon Cookies contain appended tables and text based on user imput.  This project is meant to illustrate my capabilites in javascript and outputing user data entered into a form.",
         "images": [
-          "images/portfolio/personal-project/p1.jpg",
-          "images/portfolio/personal-project/p2.jpg"
+          "images/portfolio/salmon.cookie.png"
         ],
-        "url": "https://qilinxie02.github.io/resume/",
+        "url": "https://github.com/jtimm-gicw/salmon.cookies",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -63,8 +61,32 @@
         "startDate": "2024",
         "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
         "images": [
-          "images/portfolio/react-app/p1.jpg",
-          "images/portfolio/react-app/p2.jpg"
+          "images/portfolio/horned-beast.png",
+          "images/portfolio/horned-beast2.png"
+        ],
+        "url": "https://grand-kitsune-46a90e.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Recipe Switch",
+        "startDate": "2024",
+        "description": "The project was a team effort.  We create a website that gives recipes for different dishes and with a switch you can get the alternative versions with a different visual theme.",
+        "images": [
+          "images/portfolio/switch-recipe-1.png",
+          "images/portfolio/switch-recipe-2.png"
         ],
         "url": "https://qilin-qallery-of-horns.netlify.app/",
         "technologies": [
@@ -83,6 +105,7 @@
         ]
       }
     ],
+    
     "experience": [
       {
         "company": "Code Fellows",

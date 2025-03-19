@@ -258,7 +258,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #205fe8 !important;
+	background-color: yellow !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -440,3 +440,28 @@ footer a:focus {
 	margin-top: 10px;
 	font-size: 22px;
 }
+
+// ICONS
+.devicon-html5-plain {
+	color: red; /* Change HTML5 icon color */
+  }
+  
+  .devicon-css3-plain {
+	color: red; /* Change CSS3 icon color */
+  }
+  
+  .devicon-angularjs-plain {
+	color: red; /* Change Angular icon color */
+  }
+  
+  .devicon-typescript-plain {
+	color: red; /* TypeScript default color */
+  }
+  
+  .fab.fa-github {
+	color: yellow; /* Change GitHub icon color */
+  }
+  
+  .fab.fa-linkedin {
+	color: yellow; /* LinkedIn default color */
+  }
