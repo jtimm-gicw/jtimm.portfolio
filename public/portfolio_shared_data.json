@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "your github",
+          "url": "https://github.com/jtimm-gicw",
           "class": "fab fa-github"
         },
         {
           "name": "Linkedin",
-          "url": "your linkedin",
+          "url": "https://www.linkedin.com/in/jasonscottimm/",
           "class": "fab fa-linkedin"
         }
       ],
