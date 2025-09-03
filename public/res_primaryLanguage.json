@@ -81,29 +81,6 @@
         ]
       },
       {
-        "title": "GeoSpin",
-        "startDate": "2025",
-        "description": "This web application demonstrates all my skills learn thus far.  I uses several APIs and a vabriant design suitable for all types of users.  It is a all-in-one travel helper. Whether it is the weather you're looking for or maybe a famous place to visit in a unique location, it can be found here. ",
-        "images": [
-          "images/portfolio/geo-spin-img.png"
-        ],
-        "url": "https://github.com/jtimm-gicw/geo-spin",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
         "title": "Recipe Switch",
         "startDate": "2024",
         "description": "The project was a team effort.  We create a website that gives recipes for different dishes and with a switch you can get the alternative versions with a different visual theme.",
@@ -116,6 +93,29 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "GeoSpin",
+        "startDate": "2025",
+        "description": "This web application demonstrates all my skills learn thus far.  I uses several APIs and a vabriant design suitable for all types of users.  It is a all-in-one travel helper. Whether it is the weather you're looking for or maybe a famous place to visit in a unique location, it can be found here. ",
+        "images": [
+          "images/portfolio/geo-spin-img.png"
+        ],
+        "url": "https://github.com/jtimm-gicw/geo-spin",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
             "class": "devicon-css3-plain",
